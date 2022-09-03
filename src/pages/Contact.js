@@ -27,7 +27,7 @@ const Contact = () => {
                             <li>
                                 <i className='fas fa-envelope'></i>
                                 <CopyToClipboard text='tojoherytafitasoa@gmail.com'>
-                                    <span className='clickInput' onClick={() => {alert('E-mail copié !');}}>mahavalychristinorichy@gmail.com</span>
+                                    <span className='clickInput' onClick={() => {alert('E-mail copié !');}}>toljahemmanuel@gmail.com</span>
                                 </CopyToClipboard>
                             </li>
                             

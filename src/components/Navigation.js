@@ -6,8 +6,8 @@ const Navigation = () => {
         <div className='sidebar'>
             <div className='id'>
                 <div className='idContent'>
-                    <img src="./media/moi.jpg" alt="profil-pic"/>
-                    <h4>MAHAVALY Christino Richy</h4>
+                    <img src="./media/billGates.jpg" alt="profil-pic"/>
+                    <h4>Toljah Emmanuel</h4>
                 </div>
             </div>
             <div className='navigation'>
@@ -57,7 +57,7 @@ const Navigation = () => {
                     </li>
                 </ul>
                 <div className='signature'>
-                    <p>from ChristinoRichy - 2022</p>
+                    <p>from ToljahEmmanuel- 2022</p>
                 </div>
             </div>
         </div>
